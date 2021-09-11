@@ -3,7 +3,7 @@ base_bill = float(input("Please enter the amount of the bill you have to pay: \n
 
 party_size = int(input("Please enter the number of people in your group: \n"))
 
-decided_tip = float(input("In decimal, please enter the total tip decide on the bill: \n"))
+decided_tip = float(input("In decimal, please enter the total tip decided for the bill: \n"))
 
 def tip_calculator():
 
